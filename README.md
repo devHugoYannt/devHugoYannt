@@ -8,10 +8,6 @@
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHugoYannt&layout=compact&langs_count=16&theme=neon" />
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="Center"><img align="center" src="https://profile-counter.glitch.me/{devHugoYannt}/count.svg" /></p> 
-<br></div>
   <img align="Center" alt="GifRench" src="">
 
   <img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />

@@ -23,7 +23,13 @@ Sou o **Hugo**, de Campina Grande (PB). Estou finalizando Sistemas de Informaç�
 
 ## Contato
 
-<div>
-  <a href="https://www.instagram.com/hugo.yannt/" target= "_blank"><img src=[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)></a>
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-008b8b?style=for-the-badge&logo=Instagram)](https://www.instagram.com/hugo.yannt/)
+  [![Gmail](https://img.shields.io/badge/Gmail-008b8b?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:hugoyannt@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Linkedin-008b8b?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/hugo-yannt/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-008b8b?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)](https://wa.me/5583987662648)
+  [![Discord](https://img.shields.io/badge/Discord-008b8b?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.com/users/hgxtoso.yannt)
+
 </div>
 <!-- apague as linhas que não usar ou copie uma linha para adicionar outra rede -->

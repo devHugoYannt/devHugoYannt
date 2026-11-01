@@ -23,10 +23,7 @@ Sou o **Hugo**, de Campina Grande (PB). Estou finalizando Sistemas de Informaç�
 
 ## Contato
 
-| Canal | Link |
-|:--|:--|
-| LinkedIn | [linkedin.com/in/SEU-USUARIO](https://linkedin.com/in/SEU-USUARIO) |
-| E-mail | [seu@email.com](mailto:seu@email.com) |
-| Instagram | [@SEU-USUARIO](https://instagram.com/SEU-USUARIO) |
-| Portfólio | [seu-site.com](https://seu-site.com) |
+<div>
+  <a href="https://www.instagram.com/hugo.yannt/" target= "_blank"><img src=[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)></a>
+</div>
 <!-- apague as linhas que não usar ou copie uma linha para adicionar outra rede -->

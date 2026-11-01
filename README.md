@@ -21,9 +21,9 @@ Sou o **Hugo**, de Campina Grande (PB). Estou finalizando Sistemas de Informa√ß√
   </a>
 </p>
 
-## Contato
-
 <div align="center">
+  
+  ## Contato
   
   [![Instagram](https://img.shields.io/badge/Instagram-008b8b?style=for-the-badge&logo=Instagram)](https://www.instagram.com/hugo.yannt/)
   [![Gmail](https://img.shields.io/badge/Gmail-008b8b?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:hugoyannt@gmail.com)

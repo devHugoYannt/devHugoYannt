@@ -1,20 +1,25 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Dev Hugo Yannt, Dev Fullstack, Front-end e Empresário" width="100%">
 </p>
+<div align="center">
+  
+  ## About Me
+  
+</div>
 
-## Sobre mim
+I'm **Hugo Yannt**, from Brazil 🇧🇷. I'm in my final semester of Information Systems, and I love turning technology into income.
 
-Sou o **Hugo**, de Campina Grande (PB). Estou finalizando Sistemas de Informação na UniFacisa e gosto de transformar ideias em software.
+- 🚀 **Building now:** **Fluxo**, my own app currently in development
+- 🌍 **Goal:** to move abroad and work in **Cybersecurity**
+- 🤝 **Open to:** internships and freelance work
+- 💬 Any questions? Feel free to reach out!
 
-<!-- EDITE as linhas abaixo ou apague as que não quiser -->
-- Estudando e construindo agora: **[o que você está aprendendo ou criando]**
-- Procurando: **[estágio, vaga, freelas ou networking]**
-- Pode falar comigo sobre: **[assuntos em que você pode ajudar]**
+<div align="center">
+  
+  ## Languages ​​and activity
 
-## Linguagens e atividade
+</div>
 
-<!-- Troque as duas ocorrências de SEU-USUARIO pelo seu nome de usuário do GitHub.
-     O link abre o SVG puro, onde o efeito do mouse funciona. Se não abrir bem, apague só a tag <a>. -->
 <p align="center">
   <a href="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/radar.svg">
     <img src="assets/radar.svg" alt="Radar das linguagens que mais uso e estatísticas do GitHub" width="100%">
@@ -23,7 +28,7 @@ Sou o **Hugo**, de Campina Grande (PB). Estou finalizando Sistemas de Informaç�
 
 <div align="center">
   
-  ## Contato
+  ## Contacts
   
   [![Instagram](https://img.shields.io/badge/Instagram-008b8b?style=for-the-badge&logo=Instagram)](https://www.instagram.com/hugo.yannt/)
   [![Gmail](https://img.shields.io/badge/Gmail-008b8b?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:hugoyannt@gmail.com)

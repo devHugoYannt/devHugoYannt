@@ -32,4 +32,6 @@ Sou o **Hugo**, de Campina Grande (PB). Estou finalizando Sistemas de Informaç�
   [![Discord](https://img.shields.io/badge/Discord-008b8b?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.com/users/hgxtoso.yannt)
 
 </div>
-<!-- apague as linhas que não usar ou copie uma linha para adicionar outra rede -->
+<p align="center">
+  <img src="assets/footer.png" alt="Rodapé" width="100%">
+</p>
